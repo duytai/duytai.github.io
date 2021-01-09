@@ -13,9 +13,10 @@ I am a PhD student at Singapore Management University, and I am very fortunate t
 
 My research aims to conduct impactful and practical research which bridges the gap between theories and applications. The goal of my research is to improve the quality of the codebase by developing theories, methods, tools in order to automatically discover and patch vulnerabilities
 
-1. Project 1 -  sFuzz: an efficient adaptive fuzzer for solidity smart contracts:
+### Project 1 -  sFuzz: an efficient adaptive fuzzer for solidity smart contracts:
 
 We develop a fuzzing tool called sFuzz for smart contracts. sFuzz simulates an Ethereum network and leverages mutation operators from american fuzzy lop (AFL) to fuzz smart contracts. It is different from AFL due to our lightweight multi-objective function. sFuzz is able to discover 9 types of well-known vulnerabilities. It has been adopted by multiple companies. The outcome of this search has also been published as a full paper at ICSE 2020
+
 ---
 ## News
 
