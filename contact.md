@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: [duytai.cse@gmail.com](mailto:duytai.cse@gmail.com)
 
-* Phone: [+65-95207422](tel:+65-94207422)
+* Phone: [+65-94207422](tel:+65-94207422)
 
 ---
 
