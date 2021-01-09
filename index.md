@@ -11,11 +11,8 @@ I am a PhD student at Singapore Management University, and I am very fortunate t
 ---
 ## Research Interest
 
-My research aims to conduct impactful and practical research which bridges the gap between theories and applications. The goal of my research is to improve the quality of the codebase by developing theories, methods, tools in order to automatically discover and patch vulnerabilities.
-I am currently focusing on:
-  - Smart Contract Security
-  - Symbolic Exection
-  - Fuzzing
+My research aims to conduct impactful and practical research, which bridges the gap between theories and applications. In particular, I want to improve the quality of the codebase by developing theories, methods, tools in order to automatically discover and patch vulnerabilities.
+I am interested in: smart contract security, symbolic exection, fuzzing
 
 ---
 ## News
