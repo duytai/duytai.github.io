@@ -8,10 +8,12 @@ layout: default
 
 I am a PhD student at Singapore Management University, and I am very fortunate to be advised by [Prof. Sun Jun](https://sunjun.site/)
 
+---
 ## Research Interest
 
 TODO
 
+---
 ## News
 
   - Dec-2020: Our paper "sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically" has been accepted as a full paper at 42nd IEEE Symposium on Security and Privacy (S&P 2021)

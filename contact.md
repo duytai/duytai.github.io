@@ -3,24 +3,16 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [duytai.cse@gmail.com](mailto:duytai.cse@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+65-95207422](tel:+65-94207422)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 80 Stamford Rd, Singapore 178902
 >
-> London
+> School of Information Systems (SIS), 
 >
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> Singapore Management University (SMU), Singapore
