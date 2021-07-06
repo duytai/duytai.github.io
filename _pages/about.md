@@ -22,7 +22,21 @@ My research aims to bridge the gap between theories and applications by conducti
 - [SMU Presidential Doctoral Fellowship](https://graduatestudies.smu.edu.sg/phd/singapore-management-university-smu-presidential-doctoral-fellowships) in Academic Year 2020/2021
 - Student Travel Grant Award - Mobisys'16
 
+#### Working Experience
+
+- Aug 2019 to Presnt > PhD Student at [SCIS](https://scis.smu.edu.sg/)
+- Jun 2018 to Aug 2019 > Research Intern and Senior Research Assistant at [SUTD](https://www.sutd.edu.sg/)
+- Sep 2017 to Aug 2019 > Co-Founder at Timshipper and Molli
+- Jul 2015 to Feb 2017 > Team Leader at [Designveloper](https://www.designveloper.com)
+- Jan 2014 to Jan 2015 > Java Developer at [KMS Technology](https://www.kms-technology.com/)
+
+#### Education
+
+- 2013 to 2015 > Master in [Computer Science](https://cse.hcmut.edu.vn/), Ho Chi Minh University of Technology
+- 2009 to 2013 > Bachelor in [Computer Science](https://cse.hcmut.edu.vn/), Ho Chi Minh University of Technology
+
 
 #### Contact
 
-**duytai** dot **cse** at **gmail** dot **com**
+- **duytai** dot **cse** at **gmail** dot **com**
+- **dtnguyen.2019** dot **smu** dot **edu** dot **sg**
