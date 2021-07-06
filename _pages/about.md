@@ -24,7 +24,7 @@ My research aims to bridge the gap between theories and applications by conducti
 
 #### Working Experience
 
-- Aug 2019 to Presnt > PhD Student at [SCIS](https://scis.smu.edu.sg/)
+- Aug 2019 to Present > PhD Student at [SCIS](https://scis.smu.edu.sg/)
 - Jun 2018 to Aug 2019 > Research Intern and Senior Research Assistant at [SUTD](https://www.sutd.edu.sg/)
 - Sep 2017 to Aug 2019 > Co-Founder at Timshipper and Molli
 - Jul 2015 to Feb 2017 > Team Leader at [Designveloper](https://www.designveloper.com)
