@@ -20,7 +20,7 @@ My research aims to bridge the gap between theories and applications by conducti
 - [SMU Presidential Doctoral Fellowship](https://graduatestudies.smu.edu.sg/phd/singapore-management-university-smu-presidential-doctoral-fellowships) in Academic Year 2021/2022
 - Student Travel Grant Award - S&P'21
 - [SMU Presidential Doctoral Fellowship](https://graduatestudies.smu.edu.sg/phd/singapore-management-university-smu-presidential-doctoral-fellowships) in Academic Year 2020/2021
-- Student Travel Grant Award - Mobysis'16
+- Student Travel Grant Award - Mobisys'16
 
 
 #### Contact
