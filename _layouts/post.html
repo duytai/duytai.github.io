@@ -1,0 +1,53 @@
+---
+layout: default
+---
+<div class="container">
+	<div class="row">
+		<div class="col col-12">
+			
+			<div class="post__head wow fadeInUp">
+				<h1 class="post__title">{{ page.title | escape }}</h1>
+				<div class="post-info">
+					{% if page.tags.size >= 1 %}
+					<span class="post-tags">
+						posted in
+						{% for tag in page.tags %}
+							<a href="{{ site.baseurl }}/tag/{{ tag }}" class="post-tags__tag">{{ tag }}</a>
+						{% endfor %}
+					</span>
+					{% endif %}
+					<span class="post__meta">
+						<span class="post__date"> on <a href="{{post.url | prepend: site.baseurl}}">
+							<time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time></a>
+						</span>
+						<span class="article__author"> by <a href="{{site.baseurl}}/about/">{{ site.author.name }}</a></span>
+					</span>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col col-12">
+			
+			<!-- begin post -->
+			<article class="post wow fadeInUp" data-wow-delay=".2s">
+	
+			{% if page.image and page.image != "" %}
+				<div class="post-image" style="background-image: url('{{ page.image | relative_url }}')"></div>
+			{% endif %}
+	
+				<div class="post__content">
+					{{ content }}
+				</div>
+	
+				{% if site.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
+	
+			</article>
+			<!-- end post -->
+		</div>
+	</div>
+</div>
