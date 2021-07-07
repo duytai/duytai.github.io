@@ -39,4 +39,4 @@ My research aims to bridge the gap between theories and applications by conducti
 #### Contact
 
 - **duytai** dot **cse** at **gmail** dot **com**
-- **dtnguyen.2019** dot **smu** dot **edu** dot **sg**
+- **dtnguyen** dot **2019** at **smu** dot **edu** dot **sg**
