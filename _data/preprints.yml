@@ -1,0 +1,21 @@
+main:
+
+  - title: Fuzzing with Quantitative and Adaptive Hot-Bytes Identification
+    authors: <strong>Tai D. Nguyen</strong>, Long H. Pham, Jun Sun
+    conference_short: Arvix
+    # conference: 24th International Conference on Formal Engineering Methods <strong>(ICEFM)</strong>, 2023.
+    pdf: https://arxiv.org/abs/2307.02289
+    # code: https://github.com/duytai/a18z
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:SGQ3bbpa19wJ:scholar.google.com/&output=citation&scisdr=ClFqvStDEODjpxC5hvE:AFWwaeYAAAAAZbe_nvEwYy-N7QV0jzMTxYflxDI&scisig=AFWwaeYAAAAAZbe_nq8zMHyfqyW4ovIwN33al4o&scisf=4&ct=citation&cd=-1&hl=en
+    image: https://placehold.co/600x400?font=oswald&text=Finch
+    notes: Under Submission
+
+  - title: "SPAIR: Towards Repairing Smart Contract Specification"
+    authors: <strong>Tai D. Nguyen</strong>, Long H. Pham, Jun Sun, Fu Song, Yan Wan
+    conference_short: Arvix
+    # conference: 24th International Conference on Formal Engineering Methods <strong>(ICEFM)</strong>, 2023.
+    # pdf: https://arxiv.org/abs/2307.02289
+    code: https://github.com/duytai/a18z
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:SGQ3bbpa19wJ:scholar.google.com/&output=citation&scisdr=ClFqvStDEODjpxC5hvE:AFWwaeYAAAAAZbe_nvEwYy-N7QV0jzMTxYflxDI&scisig=AFWwaeYAAAAAZbe_nq8zMHyfqyW4ovIwN33al4o&scisf=4&ct=citation&cd=-1&hl=en
+    image: https://placehold.co/600x400?font=oswald&text=SPAIR
+    notes: Under Submission

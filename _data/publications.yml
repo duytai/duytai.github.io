@@ -1,0 +1,33 @@
+main:
+
+  - title: An idealist’s approach for smart contract correctness
+    authors: <strong>Tai D. Nguyen</strong>, Long H. Pham, Jun Sun, Quang Loc Le
+    conference_short: ICFEM
+    conference: 24th International Conference on Formal Engineering Methods <strong>(ICEFM)</strong>, 2023.
+    pdf: https://link.springer.com/chapter/10.1007/978-981-99-7584-6_2
+    code: https://github.com/duytai/a18z
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:H81-n-y8K44J:scholar.google.com/&output=citation&scisdr=ClFqvStDEODjpxC65rQ:AFWwaeYAAAAAZbe8_rT68uNuR1bnfDIbXechykE&scisig=AFWwaeYAAAAAZbe8_opZcP3fdU-ZnmfCB_rPhdY&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/icontract.png
+    notes: Main Track
+
+  - title: "SGUARD: Towards Fixing Vulnerable Smart Contracts Automatically"
+    authors: <strong>Tai D. Nguyen</strong>, Long H. Pham, Jun Sun
+    conference_short: S&P
+    conference: IEEE Symposium on Security and Privacy <strong>(S&P)</strong>, 2021.
+    pdf: https://www.computer.org/csdl/proceedings-article/sp/2021/893400a982/1t0x8RwfKog
+    code: https://github.com/duytai/sGuard
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:SpP2fg8xFuYJ:scholar.google.com/&output=citation&scisdr=ClFqvStDEODjpxC7KXE:AFWwaeYAAAAAZbe9MXGMCOUlfFgNZawMnyp4Kow&scisig=AFWwaeYAAAAAZbe9Mcn6njj0vo9AloGBzZroz2Q&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Main Track
+    image: ./assets/img/sguard.png
+
+  - title: "sFuzz: An Efficient Adaptive Fuzzer for Solidity Smart Contracts"
+    authors: <strong>Tai D. Nguyen</strong>, Long H. Pham, Jun Sun, Yun Lin, Quang Tran Minh
+    conference_short: ICSE
+    conference: International Conference on Software Engineering <strong>(ICSE)</strong>, 2020.
+    pdf: https://www.computer.org/csdl/proceedings-article/icse/2020/712100a778/1pK5lt9V0JO
+    code: https://github.com/duytai/sfuzz
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:o7I5Enw4PgsJ:scholar.google.com/&output=citation&scisdr=ClFqvStDEODjpxC75Xk:AFWwaeYAAAAAZbe9_XmGXTwPjyOu9mbJHUDVIRs&scisig=AFWwaeYAAAAAZbe9_bjQ6IU68lIihYIFYErKi3E&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Main Track
+    image: ./assets/img/sfuzz.png
